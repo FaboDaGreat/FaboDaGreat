@@ -1,4 +1,4 @@
-## Hello, I’m Fabian Richmond
+## Hello, I’m Fabian Richmond!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
