@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Fabian Richmond
+## Hello, I’m Fabian Richmond
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
@@ -15,7 +15,7 @@ I’m particularly interested in **Software Engineer (SWE)** and **QA / SDET** r
 
 ---
 
-## 🧠 Technical Focus
+## Technical Focus
 
 **Languages**
 
@@ -48,7 +48,7 @@ I’m particularly interested in **Software Engineer (SWE)** and **QA / SDET** r
 
 ---
 
-## 🧪 Featured Automation Project — Hacker News Validation
+## 🧪 Hacker News Validation - QA Automation Project
 
 🔗 **Repo:** [https://github.com/FaboDaGreat/qa_automation](https://github.com/FaboDaGreat/qa_automation)
 
@@ -94,22 +94,10 @@ A collaborative full‑stack project built with **TypeScript, Python, React, Fla
 
 ---
 
-## 💡 Engineering Philosophy
+## Engineering Philosophy
 
 * I treat **tests as first‑class software**, not scripts
 * I prioritize **clarity, correctness, and maintainability**
 * I design for **edge cases and real‑world failure modes**
 * I enjoy improving existing systems as much as building new ones
-
----
-
-## 📫 Let’s Connect
-
-* 📧 **Email:** [fabian.richmond92@gmail.com](mailto:fabian.richmond92@gmail.com)
-* 💻 **GitHub:** [https://github.com/FaboDaGreat](https://github.com/FaboDaGreat)
-* 📍 **Location:** Orlando, FL
-
----
-
-⭐ *If you’re a recruiter or engineer reviewing my work, start with the Hacker News automation project — it best reflects how I approach real‑world engineering problems and ambiguity.*
 
