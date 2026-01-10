@@ -101,3 +101,13 @@ A collaborative full‑stack project built with **TypeScript, Python, React, Fla
 * I design for **edge cases and real‑world failure modes**
 * I enjoy improving existing systems as much as building new ones
 
+---
+
+## Hobbies
+
+* CrossFit
+* Bodybuilding
+* Running half marathons, Spartan Races, etc.
+* Amateur Freestyle dancing
+* Watching Anime
+
