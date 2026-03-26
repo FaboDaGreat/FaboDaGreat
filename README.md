@@ -48,7 +48,7 @@ I’m particularly interested in **Software Engineer (SWE)** and **QA / SDET** r
 
 ---
 
-## 🧪 Hacker News Validation - QA Automation Project
+## Hacker News Validation
 
 🔗 **Repo:** [https://github.com/FaboDaGreat/qa_automation](https://github.com/FaboDaGreat/qa_automation)
 
@@ -67,7 +67,7 @@ This project demonstrates how I approach **test code as production code** — re
 
 ---
 
-## 🖼️ PicsGalore — Full‑Stack Web Application
+## PicsGalore
 
 🔗 **Repo:** [https://github.com/FaboDaGreat/pics_galore](https://github.com/FaboDaGreat/pics_galore)
 🌐 **Live:** [https://pics-galore.onrender.com/](https://pics-galore.onrender.com/)
@@ -81,7 +81,7 @@ A full‑stack image‑focused web application built with **React, Redux, Expres
 
 ---
 
-## 🐝 BizzyBee — Full‑Stack Workflow Platform
+## BizzyBee
 
 🔗 **Repo:** [https://github.com/lukeb06/bizzybee](https://github.com/lukeb06/bizzybee)
 🌐 **Live:** [https://bizzybee-24c7.onrender.com/](https://bizzybee-24c7.onrender.com/)
