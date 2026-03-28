@@ -50,7 +50,7 @@ I’m particularly interested in **Software Engineer (SWE)** and **QA / SDET** r
 
 ## Hacker News Validation
 
-🔗 **Repo:** [https://github.com/FaboDaGreat/qa_automation](https://github.com/FaboDaGreat/qa_automation)
+**Repo:** [https://github.com/FaboDaGreat/qa_automation](https://github.com/FaboDaGreat/qa_automation)
 
 An end‑to‑end Playwright test suite that validates **Hacker News’s `/newest` feed**.
 
@@ -69,8 +69,8 @@ This project demonstrates how I approach **test code as production code** — re
 
 ## PicsGalore
 
-🔗 **Repo:** [https://github.com/FaboDaGreat/pics_galore](https://github.com/FaboDaGreat/pics_galore)
-🌐 **Live:** [https://pics-galore.onrender.com/](https://pics-galore.onrender.com/)
+**Repo:** [https://github.com/FaboDaGreat/pics_galore](https://github.com/FaboDaGreat/pics_galore)
+**Live:** [https://pics-galore.onrender.com/](https://pics-galore.onrender.com/)
 
 A full‑stack image‑focused web application built with **React, Redux, Express, and Sequelize**.
 
@@ -83,8 +83,8 @@ A full‑stack image‑focused web application built with **React, Redux, Expres
 
 ## BizzyBee
 
-🔗 **Repo:** [https://github.com/lukeb06/bizzybee](https://github.com/lukeb06/bizzybee)
-🌐 **Live:** [https://bizzybee-24c7.onrender.com/](https://bizzybee-24c7.onrender.com/)
+**Repo:** [https://github.com/lukeb06/bizzybee](https://github.com/lukeb06/bizzybee)
+**Live:** [https://bizzybee-24c7.onrender.com/](https://bizzybee-24c7.onrender.com/)
 
 A collaborative full‑stack project built with **TypeScript, Python, React, Flask, and Docker**.
 
